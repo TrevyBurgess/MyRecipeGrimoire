@@ -4,6 +4,8 @@ A simple web application for managing recipies
 We will be using https://ViteJS.dev to create the project
 
 # Tools
+Next.js framework
+
 
 
 # Create project
